@@ -1,6 +1,6 @@
 # ecommerce_sales_analysis_dashboard
 
-Tools & Technologies: Power BI, DAX, Excel, Data Cleaning, Data Visualization, KPI Tracking, Business Intelligence (BI)
+Tools & Technologies: DAX, Excel, Data Cleaning, Data Visualization, KPI Tracking, Business Intelligence (BI)
 
 Project Overview:
 Designed and developed an interactive and executive-level ecommerce sales dashboard to track key performance indicators (KPIs), visualize trends, and support data-driven decision-making for business growth.
