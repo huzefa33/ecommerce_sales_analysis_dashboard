@@ -1,4 +1,4 @@
-# ecommerce_sales_analysis_dashboard
+# Ecommerce_sales_analysis_dashboard
 
 Tools & Technologies: DAX, Excel, Data Cleaning, Data Visualization, KPI Tracking, Business Intelligence (BI)
 
